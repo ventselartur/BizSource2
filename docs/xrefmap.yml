@@ -1,0 +1,21 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: M:Codeunit::Say_Hello.SayHello(Text)
+  name: SayHello
+  href: reference/myapp/Codeunit/Say-Hello.html
+- uid: N:Module::MyApp
+  name: MyApp
+  summary: ''
+  fqName: MyApp by Artur (1.0.0.0)
+  href: reference/myapp/Module/MyApp.html
+- uid: O:Codeunit::Say_Hello
+  name: "\"Say Hello\""
+  summary: >
+    <p sourcefile="reference/myapp/Codeunit/Say-Hello.yml" sourcestartlinenumber="1" jsonPath="/summary">This codeunit demonstrates how to use the Environment Information codeunit</p>
+  fqName: "\"Say Hello\""
+  href: reference/myapp/Codeunit/Say-Hello.html
+- uid: O:PageExtension::CustomerListExt
+  name: CustomerListExt
+  fqName: CustomerListExt
+  href: reference/myapp/PageExtension/CustomerListExt.html
