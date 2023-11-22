@@ -1,0 +1,14 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: MyApp by Artur (1.0.0.0)
+baseKind: Module
+kind: Module
+objectProperties:
+- name: Version
+  value: 1.0.0.0
+  promoted: false
+- name: Publisher
+  value: Artur
+  promoted: false
+summary: ""
+uid: N:Module::MyApp
+name: MyApp

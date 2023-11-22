@@ -1,0 +1,26 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Say Hello"'
+alId: ID 55000
+baseKind: Codeunit
+kind: Codeunit
+parent: 'N:Module::MyApp::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+methods:
+- syntax:
+    content: 'procedure SayHello(UserName: Text)'
+    parameters:
+    - id: UserName
+      description: The name of the user
+      parameterType:
+        name: Text
+        isExternal: true
+  summary: This procedure says hello to the user
+  uid: M:Codeunit::Say_Hello.SayHello(Text)
+  name: SayHello
+commentId: O:Codeunit::Say Hello
+summary: This codeunit demonstrates how to use the Environment Information codeunit
+uid: O:Codeunit::Say_Hello
+name: '"Say Hello"'

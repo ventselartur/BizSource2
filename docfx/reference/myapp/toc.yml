@@ -1,0 +1,13 @@
+﻿items:
+- name: Overview
+  uid: N:Module::MyApp
+- name: Reference
+  items:
+  - name: Codeunits
+    items:
+    - name: Say Hello
+      uid: O:Codeunit::Say_Hello
+  - name: PageExtensions
+    items:
+    - name: CustomerListExt
+      uid: O:PageExtension::CustomerListExt

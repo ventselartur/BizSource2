@@ -1,0 +1,16 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: CustomerListExt
+alId: ID 55000
+baseKind: Page
+kind: PageExtension
+parent: 'N:Module::MyApp::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Sales.Customer."Customer List"
+  isExternal: true
+seeAlso:
+- '[Page Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-ext-object)'
+commentId: O:PageExtension::CustomerListExt
+uid: O:PageExtension::CustomerListExt
+name: CustomerListExt
